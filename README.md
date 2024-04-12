@@ -12,6 +12,7 @@ Repository ini merupakan tempat pengumpulan tugas praktikum Struktur Data dan Al
 ## Daftar Praktikum
 
  - [Modul I : TIPE DATA](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul1)
- - [Modul II : ARRAY](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul1)
- - [Modul III : SINGLE AND DOUBLE LINKED LIST](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul1)
+ - [Modul II : ARRAY](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul2)
+ - [Modul III : SINGLE AND DOUBLE LINKED LIST](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul3)
+ - [Modul IV : LINKED LIST CIRCULAR DAN NON CIRCULAR](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul4)
 
