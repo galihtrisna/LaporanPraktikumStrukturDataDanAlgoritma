@@ -18,4 +18,5 @@ Repository ini merupakan tempat pengumpulan tugas praktikum Struktur Data dan Al
  - [Modul V   : HASH TABLE](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul5)
  - [Modul VI  : STACK](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul6)
  - [Modul VII : QUEUE](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul7)
+ - [Modul VIII : SEARCH](https://github.com/galihtrisna/LaporanPraktikumStrukturDataDanAlgoritma/tree/main/Modul8)
 
